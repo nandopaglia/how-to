@@ -12,7 +12,7 @@ Di conseguenza, abbiamo deciso di creare uno Slack anche per la community italia
 I passaggi per l’iscrizione al nostro Slack sono:
 
 * creazione 	di un account su [WordPress.org](https://wordpress.org/)
-* iscrizione allo Slack internazionale (non è obbligatorio va consigliato)
+* iscrizione allo Slack internazionale (non è obbligatorio ma consigliato)
 * iscrizione	allo Slack italiano
 
 # Come ci si registra allo Slack di Italia WP Community?
@@ -23,7 +23,7 @@ Nel caso ne avessi già uno, basta effettuare il [login](https://login.wordpress
 Dopo aver registrato un account ed aver fatto login, vai su [https://make.wordpress.org/chat/](https://make.wordpress.org/chat/) e scorri fino alla sezione **“Joining the WordPress team on Slack”**.  
 Qui dovrai richiedere un invito alla chat inserendo una tua email (segui semplicemente le istruzioni riportate in quella pagina).  
 L’invito è automatico, chiunque abbia un account WordPress.org può accedere. Ti arriverà una mail all’indirizzo che hai indicato in fase di registrazione. A questo punto ti sarà stato assegnato un indirizzo email del tipo nomeutente@chat.wordpress.org​ che serve come login per Slack.
-Attraverso questo nuovo indirizzo email potrai attivare il tuo account su [https://wordpress.slack.com/](https://wordpress.slack.com/).
+Attraverso questo nuovo indirizzo email potrai attivare il tuo account sullo Slack Internazionale [https://wordpress.slack.com/](https://wordpress.slack.com/).
 
 **Congratulazioni!**
 Ora fai parte della comunità mondiale di WordPress​! Benvenuto su Make WordPress, il canale ufficiale per la comunicazione tra tutti i contributori al progetto WordPress.
@@ -37,8 +37,7 @@ Dopo aver effettuato la registrazione, attiva il tuo account tramite l’email r
 # Benvenuto nella community italiana di WordPress!
 
 **Importante**:
-​assicurati di modificare il tuo profilo inserendo nome e cognome in modo che tutti possano sapere chi sei. Potrebbe sembrarti superfluo, ma sapere esattamente con chi si sta parlando quando ci
-sono oltre 700 utenti registrati é una cosa fondamentale.  
+​assicurati di modificare il tuo profilo inserendo nome e cognome in modo che tutti possano sapere chi sei. Potrebbe sembrarti superfluo, ma sapere esattamente con chi si sta parlando quando ci sono oltre 700 utenti registrati é una cosa fondamentale.  
 Se poi deciderai di partecipare ai WordCamp avrai un badge con il tuo nome e cognome, in questo modo tutti potranno riconoscerti di persona più facilmente.
 
 **Ok, sono dentro! Cosa devo fare per scrivere?**
